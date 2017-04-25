@@ -39,7 +39,7 @@ a:focus { outline:none; }
 .header {
 	position:relative;
 	z-index:99;
-	padding:30px 0;
+	/*padding:30px 0;*/
 	border-bottom:1px solid #DDD;
 	background-color:#eee;
 }
@@ -2815,4 +2815,8 @@ div.ajax-loader {
 	-webkit-box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
+}
+body.home 
+{
+  background: #fff;
 }
