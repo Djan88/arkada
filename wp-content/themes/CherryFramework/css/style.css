@@ -2838,8 +2838,8 @@ body
 }
 .content-holder a.btn:hover, .content-holder a.btn:focus
 {
-	background-color: #005692;
-	color: #fff;
+	background: #005692;
+	color: #fff!important;
 }
 .content-holder h3, .content-holder h2, .content-holder h4 
 {
