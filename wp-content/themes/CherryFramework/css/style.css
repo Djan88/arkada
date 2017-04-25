@@ -2816,9 +2816,9 @@ div.ajax-loader {
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
-body.home 
+body
 {
-  background: #fff;
+  background: #fff!important;
 }
 .logo img 
 {
