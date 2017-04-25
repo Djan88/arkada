@@ -2841,7 +2841,7 @@ body
 	background: #005692;
 	color: #fff!important;
 }
-.content-holder h3, .content-holder h2, .content-holder h4 
+.content-holder h3, .content-holder h2, .content-holder h4, .content-holder h2 span, .content-holder h3 span
 {
   color: #005692;
 }
