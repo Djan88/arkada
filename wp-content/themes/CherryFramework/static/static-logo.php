@@ -17,7 +17,8 @@
 
 	$tagline = get_bloginfo('description');
 	if ( $tagline!='' ) { ?>
-		<p class="logo_tagline"><?php bloginfo('description'); ?></p><!-- Site Tagline -->
+		<!-- <p class="logo_tagline"><?php //bloginfo('description'); ?></p> -->
+		<!-- Site Tagline -->
 	<?php } ?>
 </div>
 <!-- END LOGO -->
