@@ -1244,7 +1244,7 @@ div.type-page .spacer { height:50px; }
 #calendar_wrap #wp-calendar caption { color:#ffdc63; }
 #calendar_wrap #wp-calendar thead tr { background:#fff; }
 .footer-widgets >div >div h4 {
-	color:#FFF;
+	color:#ffdc63;
 	font-weight:300;
 	font-size:25px;
 	line-height:1em;
@@ -1515,7 +1515,7 @@ div.type-page .spacer { height:50px; }
 	font-size:45px;
 	line-height:42px;
 	margin:8px 0 0;
-	color:#c43025;
+	color:#005692;
 	font-weight:600;
 }
 .title-box .title-box_secondary {
