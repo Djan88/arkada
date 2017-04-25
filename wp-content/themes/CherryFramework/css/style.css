@@ -2827,12 +2827,16 @@ body
   max-width: 150px;
   padding-top: 20px;
 }
-.content-holder a:hover, .content-holder a:focus 
+.author a
+{
+	color: #c43025;
+}
+.content-holder a:hover, .content-holder a:focus
 {
   color: #0060ff!important;
   text-decoration: none;
 }
 .content-holder h3 
 {
-  color: #27343d;
+  color: #005692;
 }
