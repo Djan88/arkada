@@ -1327,6 +1327,7 @@ div.type-page .spacer { height:50px; }
 .testimonial {
 	background:#1c1c1c;
 	border:1px solid #535353;
+	color: #eee;
 }
 .testimonials.testi-events .testi-item {
 	margin:0;
