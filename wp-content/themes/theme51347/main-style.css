@@ -735,7 +735,7 @@ article .post_meta {
 article .post_meta .post_meta_unite { border-top:1px solid #2e3d47; }
 article .post_meta i {
 	margin-right:6px;
-	color:#ffdc63;
+	color:#001867;
 	font-size:15px;
 }
 article .post_meta time { color:#27343d; }
@@ -744,7 +744,7 @@ article .post_meta span {
 	margin-right:10px;
 }
 article .post_meta .post_date { color:#fff; }
-article .post_meta .post_author a { color:#ffdc63; }
+article .post_meta .post_author a { color:#001867; }
 article .post_meta .post_category a, article .post_meta .post_tag a, article .post_meta .post_tag { color:#27343d; }
 article .post_meta .post_comment a { color:#27343d; }
 article .post_meta .user_like, article .post_meta .post_views { color:#27343d; }
