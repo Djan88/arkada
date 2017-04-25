@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 { text-transform:uppercase; }
 .btn, .reply a {
 	border-radius:0;
 	border:none;
-	color:#fff;
+	color:#fff!important;
 	text-shadow:none;
 	font:600 14px/1.2em 'Open Sans', sans-serif;
 	text-transform:uppercase;
@@ -818,7 +818,7 @@ article .quote-wrap blockquote {
 }
 .filter-wrapper { margin:0px 0 22px; }
 .filter-wrapper strong {
-	color:#ffdc63;
+	color:#005692;
 	padding:0;
 	font:600 14px/1.2em 'Open Sans', sans-serif;
 	margin-right:0px;
@@ -852,7 +852,7 @@ article .quote-wrap blockquote {
 	}
 }
 .filter-wrapper .filter li a {
-	color:#ffdc63;
+	color:#c43025;
 	font:600 14px/1.2em 'Open Sans', sans-serif;
 	padding:10px 20px;
 	margin:0;
@@ -868,7 +868,7 @@ article .quote-wrap blockquote {
 .filter-wrapper .filter li a:active, .filter-wrapper .filter li a:hover, .filter-wrapper .filter li a:focus {
 	text-decoration:none;
 	box-shadow:none;
-	color:#fff;
+	color:#fff!important;
 	background:#c43025;
 	box-shadow:1px 2px 0 rgba(0,0,0,0.3);
 }
