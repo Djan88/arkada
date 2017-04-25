@@ -5,6 +5,7 @@
 	/*background:#27343d url(images/bg-top.jpg) no-repeat 50% 0;*/
 	position:relative;
 }
+
 .main-holder:after {
 	content:"";
 	position:absolute;
