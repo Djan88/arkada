@@ -163,7 +163,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 	transform:rotateY(360deg);
 }
 .nav-wrap {
-	margin-top:38px;
+	/*margin-top:38px;*/
 	background-color:#c93428;
 	background-image:-moz-linear-gradient(top,#ce382b,#c12e23);
 	background-image:-webkit-gradient(linear,0 0,0 100%,from(#ce382b),to(#c12e23));
