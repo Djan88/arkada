@@ -2836,7 +2836,17 @@ body
   color: #0060ff!important;
   text-decoration: none;
 }
+.content-holder a.btn:hover, .content-holder a.btn:focus
+{
+	background-color: #005692;
+	color: #fff;
+}
 .content-holder h3, .content-holder h2, .content-holder h4 
 {
   color: #005692;
+}
+footer.footer .menu a 
+{
+  color: #fff;
+  text-decoration: underline;
 }
