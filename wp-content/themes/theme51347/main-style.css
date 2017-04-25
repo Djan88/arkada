@@ -673,7 +673,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 .title-section .title-header {
 	margin:0 0 24px;
 	font:600 25px/1.2em 'Open Sans', sans-serif;
-	color:#ffdc63;
+	color:#c12e23;
 }
 .title-section .breadcrumb {
 	background:none;
@@ -689,7 +689,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 .title-section .breadcrumb >li { text-shadow:none; }
 .title-section .breadcrumb >li.active { color:#787878; }
 .title-section .breadcrumb a {
-	color:#ffdc63;
+	color:#c43025;
 	text-shadow:none;
 	font-size:14px;
 }
