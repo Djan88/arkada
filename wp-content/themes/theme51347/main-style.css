@@ -639,8 +639,9 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 	.camera_commands { display:none !important; }
 }
 .content-holder {
-	background:url(images/bg-content.png) 0 0;
-	position:relative;
+	background: #ddd;
+	position: relative;
+	margin-top: 20px;
 }
 .content-holder:before {
 	content:"";
