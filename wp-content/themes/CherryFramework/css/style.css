@@ -2836,7 +2836,7 @@ body
   color: #0060ff!important;
   text-decoration: none;
 }
-.content-holder h3 
+.content-holder h3, .content-holder h2, .content-holder h4 
 {
   color: #005692;
 }
