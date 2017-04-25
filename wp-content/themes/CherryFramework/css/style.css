@@ -2827,3 +2827,7 @@ body
   max-width: 150px;
   padding-top: 20px;
 }
+a:hover, a:focus 
+{
+  color: #0060ff!important;
+}
