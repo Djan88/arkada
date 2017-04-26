@@ -1743,4 +1743,4 @@ blockquote p { line-height:22px; }
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
-";s:5:"files";a:3:{s:70:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/style.less";i:1492607000;s:89:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/bootstrap/less/variables.less";i:1492607133;s:86:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/bootstrap/less/mixins.less";i:1492607000;}s:7:"updated";i:1493151739;}
+";s:5:"files";a:3:{s:70:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/style.less";i:1492607000;s:89:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/bootstrap/less/variables.less";i:1492607133;s:86:"/home/arcadacrimea/public_html/wp-content/themes/theme51347/bootstrap/less/mixins.less";i:1492607000;}s:7:"updated";i:1493203874;}
