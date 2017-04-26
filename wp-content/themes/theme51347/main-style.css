@@ -1380,7 +1380,7 @@ div.type-page .spacer { height:50px; }
 	background-repeat:repeat-x;
 	margin:0;
 	padding:22px 32px 23px;
-	color:#FFFFFF;
+	color:#FFFFFF!important;
 	font-weight:300;
 	box-shadow:1px 2px 0 rgba(0,0,0,0.3);
 }
